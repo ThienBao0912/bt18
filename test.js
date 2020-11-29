@@ -1,5 +1,7 @@
 // bt1
-var array1_1 = new Array (1,2,3,4,5,6,-1,9,7,5,-9);
+
+//cách 1
+/*var array1_1 = new Array (1,2,3,4,5,6,-1,9,7,5,-9);
 console.log(array1_1);
     for (var i = 0; i < array1_1.length; i++) {
       if (array1_1[i]%2 == 0) {
@@ -8,7 +10,7 @@ console.log(array1_1);
       }
     }
     console.log("Mảng chẵn: ");
-    console.log(array1_1);
+    console.log(array1_1);*/
 
 
 
